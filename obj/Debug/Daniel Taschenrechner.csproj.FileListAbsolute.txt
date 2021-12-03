@@ -1,0 +1,20 @@
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\bin\Debug\Daniel Taschenrechner.exe.config
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\bin\Debug\Daniel Taschenrechner.exe
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\bin\Debug\Daniel Taschenrechner.pdb
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel_Taschenrechner.Properties.Resources.resources
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.csproj.GenerateResource.cache
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.exe
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.pdb
+C:\Users\praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel_Taschenrechner.Taschenrechner.resources
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\bin\Debug\Daniel Taschenrechner.exe.config
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\bin\Debug\Daniel Taschenrechner.exe
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\bin\Debug\Daniel Taschenrechner.pdb
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.csprojAssemblyReference.cache
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel_Taschenrechner.Taschenrechner.resources
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel_Taschenrechner.Properties.Resources.resources
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.csproj.GenerateResource.cache
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.csproj.CoreCompileInputs.cache
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.exe
+\\DEPC030\c$\Users\Praktikantit\source\repos\Daniel Taschenrechner\Daniel Taschenrechner\obj\Debug\Daniel Taschenrechner.pdb
